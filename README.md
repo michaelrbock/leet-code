@@ -7,6 +7,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./python/maximum-subarray.py) | Easy
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](./python/search-a-2d-matrix.py) | Medium
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Python](./python/sort-colors.py) | Medium
+79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./python/word-search.py) | Medium
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python](./python/minimun-depth-of-binary-tree.py) | Easy
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](./python/majority-element.py) | Easy
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python](./python/number-of-islands.py) | Medium
