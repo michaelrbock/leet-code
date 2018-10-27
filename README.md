@@ -8,6 +8,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./python/generate-parentheses) | Medium
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./python/maximum-subarray.py) | Easy
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Python](./python/unique-paths.py) | Medium
+63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](./python/unique-paths-ii.py) | Medium
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](./python/search-a-2d-matrix.py) | Medium
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Python](./python/sort-colors.py) | Medium
 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](./python/word-search.py) | Medium
