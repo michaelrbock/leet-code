@@ -4,21 +4,16 @@
 #     self.val = x
 #     self.next = None
 
-class Solution:
-  def reverseList(self, head):
-    """
-    :type head: ListNode
-    :rtype: ListNode
-    """
-    prev = None
-    curr = head
+def reverseList(self, head):
+  prev = None
+  curr = head
 
-    # No need for special cases for empty or 1-node lists.
-    while curr is not None:
-      temp = curr.next
-      curr.next = prev
-      prev = curr
-      curr = temp
+  # No need for special cases for empty or 1-node lists.
+  while curr is not None:
+    temp = curr.next
+    curr.next = prev
+    prev = curr
+    curr = temp
 
-    # prev is the new head.
-    return prev
+  # prev is the new head.
+  return prev

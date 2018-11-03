@@ -25,5 +25,6 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | [Python](./python/different-ways-to-add-parentheses.py) | Medium
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [Python](./python/perfect-squares.py) | Medium
 529 | [Minesweeper](https://leetcode.com/problems/minesweeper) | [Python](./python/minesweeper.py) | Medium
+704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Python](./python/binary-search.py) | Easy
 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [Python](./python/network-delay-time.py) | Easy
 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock) | [Python](./python/open-the-lock.py) | Medium
