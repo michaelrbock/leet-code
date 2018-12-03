@@ -7,6 +7,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | ------------- |
 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](./python/two-sum.py) | Easy
+5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](./python/longest-palindromic-substring.py) | Medium
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](python/roman-to-integer.py) | Easy
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python](./python/letter-combinations-of-a-phone-number.py) | Medium
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python/valid-parentheses.py) | Easy

@@ -1,11 +1,32 @@
+def _reverse(arr, start, end):
+  """Reverses arr from start to end (inclusive) in-place."""
+  while start < end:
+    arr[start], arr[end] = arr[end], arr[start]
+    start += 1
+    end -= 1
+
+
 class Solution:
   def rotate(self, nums, k):
+    """
+    Strategy:
+      Reverse array, reverse arr up to k, reverse arr after k.
+    """
+    if k <= 0 or len(nums) < 2:
+      return
+    # Mod by length of arr to account for multiple rotational shifts.
+    k = k % len(nums)
+    _reverse(nums, 0, len(nums) - 1)
+    _reverse(nums, 0, k - 1)
+    _reverse(nums, k, len(nums) - 1)
+
+  def rotate1(self, nums, k):
     """
     :type nums: List[int]
     :type k: int
     :rtype: void Do not return anything, modify nums in-place instead.
     """
-    # Mod by length of nums to account for multiple rotational shifts.
+    # Mod by length of arr to account for multiple rotational shifts.
     k = k % len(nums)
     if k <= 0 or not nums:
       return
