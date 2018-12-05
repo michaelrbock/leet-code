@@ -13,6 +13,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python/valid-parentheses.py) | Easy
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./python/generate-parentheses) | Medium
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./python/merge-k-sorted-lists.py) | Hard
+42 | | | Hard
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./python/maximum-subarray.py) | Easy
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Python](./python/spiral-matrix.py) | Medium
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./python/merge-intervals.py) | Medium
@@ -26,6 +27,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python](./python/minimun-depth-of-binary-tree.py) | Easy
 120 | [Triangle](https://leetcode.com/problems/triangle) | [Python](./python/triangle.py) | Medium
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Python](./python/best-time-to-buy-and-sell-stock.py) | Easy
+153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python](./python/find-minimum-in-rotated-sorted-array.py) | Medium
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](./python/majority-element.py) | Easy
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Python](./python/rotate-array.py) | Easy
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python](./python/number-of-islands.py) | Medium
