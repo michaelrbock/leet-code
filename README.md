@@ -25,7 +25,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](./python/word-search.py) | Medium
 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Python](./python/restore-ip-addresses.py) | Medium
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python/maximum-depth-of-binary-tree.py) | Easy
-111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python](./python/minimun-depth-of-binary-tree.py) | Easy
+111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python](./python/minimum-depth-of-binary-tree.py) | Easy
 120 | [Triangle](https://leetcode.com/problems/triangle) | [Python](./python/triangle.py) | Medium
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Python](./python/best-time-to-buy-and-sell-stock.py) | Easy
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python](./python/find-minimum-in-rotated-sorted-array.py) | Medium
