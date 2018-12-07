@@ -1,9 +1,4 @@
-"""
-BFS.
-
-Time: O(n)
-Space: O(h)
-"""
+from collections import deque
 
 
 # Definition for a binary tree node.
@@ -13,22 +8,27 @@ Space: O(h)
 #         self.left = None
 #         self.right = None
 
+
 class Solution:
   def minDepth(self, root):
     """
     :type root: TreeNode
     :rtype: int
     """
+    # Strategy: bfs starting from root,
+    #   keeping track of height for each node,
+    #   return first leaf node's height.
+    #   no need for visited set.
     if not root:
       return 0
 
-    # (TreeNode, depth)
-    to_visit = [(root, 1)]
+    to_visit = deque([(1, root)])  # (height, node)
     while to_visit:
-      current, depth = to_visit.pop(0)
-      if not current.left and not current.right:
-        return depth
-      if current.left:
-        to_visit.append((current.left, depth + 1))
-      if current.right:
-        to_visit.append((current.right, depth + 1))
+      height, node = to_visit.popleft()
+      if not node.left and not node.right:
+        return height
+      if node.left:
+        to_visit.append((height + 1, node.left))
+      if node.right:
+        to_visit.append((height + 1, node.right))
+    return -1  # Something went wrong

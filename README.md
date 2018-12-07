@@ -13,7 +13,8 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python/valid-parentheses.py) | Easy
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./python/generate-parentheses) | Medium
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./python/merge-k-sorted-lists.py) | Hard
-42 | | | Hard
+* 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | | Medium
+* 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | | Hard
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./python/maximum-subarray.py) | Easy
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Python](./python/spiral-matrix.py) | Medium
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./python/merge-intervals.py) | Medium
@@ -45,6 +46,6 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](./python/jewels-and-stones.py) | Easy
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](./python/keys-and-rooms.py) | Medium
 
-### Need to Revist
+### Problems to revist
 
-
+are marked with a `*`
