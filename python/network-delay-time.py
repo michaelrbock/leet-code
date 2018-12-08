@@ -11,8 +11,8 @@ class Solution:
     :rtype: int
     """
     # Strategy: Dijkstra's (uniform cost search), filling
-    #   out a dict of distance it takes to get to each node
-    #   starting from K. Return longest distance if all can
+    #   out a dict of delay it takes to get to each node
+    #   starting from K. Return longest delay if all can
     #   be reached, else -1.
     # 1. Create graph {node : {target : time}} from times list.
     graph = defaultdict(dict)
@@ -21,26 +21,26 @@ class Solution:
 
     # 2. Create priority queue.
     frontier = []
-    heapq.heappush(frontier, (0, K))  # (priority, node)
+    heapq.heappush(frontier, (0, K))  # (delay, node)
 
-    # 3. Create distances dict.
-    node_times = {}
-    node_times[K] = 0
+    # 3. Create delay dict.
+    delays = {}
+    delays[K] = 0
 
     # 4. Run UCS.
     while frontier:
       current = heapq.heappop(frontier)[1]
-      for node, time in graph[current].items():
-        new_time = node_times[current] + time
-        if node not in node_times or new_time < node_times[node]:
-          node_times[node] = new_time
-          heapq.heappush(frontier, (new_time, node))
+      for node, delay in graph[current].items():
+        new_delay = delays[current] + delay
+        if node not in delays or new_delay < delays[node]:
+          delays[node] = new_delay
+          heapq.heappush(frontier, (new_delay, node))
 
     # 5. Calculate return value.
     for node in range(1, N+1):
-      if node not in node_times:
+      if node not in delays:
         return -1
-    return max(node_times.values())
+    return max(delays.values())
 
 
 s = Solution()
