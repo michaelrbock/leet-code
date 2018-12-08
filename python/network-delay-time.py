@@ -30,11 +30,11 @@ class Solution:
     # 4. Run UCS.
     while frontier:
       current = heapq.heappop(frontier)[1]
-      for node, delay in graph[current].items():
+      for neighbor, delay in graph[current].items():
         new_delay = delays[current] + delay
-        if node not in delays or new_delay < delays[node]:
-          delays[node] = new_delay
-          heapq.heappush(frontier, (new_delay, node))
+        if neighbor not in delays or new_delay < delays[neighbor]:
+          delays[neighbor] = new_delay
+          heapq.heappush(frontier, (new_delay, neighbor))
 
     # 5. Calculate return value.
     for node in range(1, N+1):
