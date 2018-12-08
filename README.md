@@ -44,6 +44,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [Python](./python/network-delay-time.py) | Easy
 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock) | [Python](./python/open-the-lock.py) | Medium
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](./python/jewels-and-stones.py) | Easy
+773* | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Python](./python/sliding-puzzle.py) | Hard
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](./python/keys-and-rooms.py) | Medium
 
 ### Problems to revist
