@@ -1,11 +1,3 @@
-"""
-Run binary search on the first column, then binary search on that row.
-
-Better: treat the matrix like a sorted list - O(logn).
-
-Time: O(logn + logm)
-"""
-
 def binary_row(rows, target):
   if len(rows) == 1:
     return 0, None
@@ -48,7 +40,7 @@ def binary_search(lst, target):
   return False
 
 
-class Solution:
+class Solution1:
   def searchMatrix(self, matrix, target):
     """
     :type matrix: List[List[int]]
@@ -61,3 +53,47 @@ class Solution:
     if result is not None:
       return result
     return binary_search(matrix[row], target)
+
+
+def _translate(index, rows, cols):
+  """Returns (row, col) for overall index."""
+  row = index // cols
+  col = index % cols
+  return row, col
+
+
+class Solution:
+  def searchMatrix(self, matrix, target):
+    """
+    :type matrix: List[List[int]]
+    :type target: int
+    :rtype: bool
+    """
+    if not matrix or not matrix[0]:
+      return False
+    # Strategy: binary search, but treat the matrix as if
+    #   it was one long array. Translate overall index into
+    #   row/col indices.
+    m, n = len(matrix), len(matrix[0])  # num row, num cols
+    start = 0  # indices as if matrix was one long list
+    end = m * n - 1  # incluive
+    while start <= end and start >= 0 and end < m * n:
+      mid = (start + end) // 2
+      row, col = _translate(mid, m, n)
+      if target == matrix[row][col]:
+        return True
+      elif target > matrix[row][col]:
+        start = mid + 1
+      else:  # target < matrix[row][col]
+        end = mid - 1
+    return False
+
+
+s = Solution()
+assert not s.searchMatrix([[-10,-8,-8,-8],[-5,-4,-2,0]], 7)
+assert s.searchMatrix([[1, 3, 5, 7],[10, 11, 16, 20],[23, 30, 34, 50]], 3)
+assert not s.searchMatrix([[1, 3, 5, 7],[10, 11, 16, 20],[23, 30, 34, 50]], 13)
+assert not s.searchMatrix([[1, 1]], 0)
+assert not s.searchMatrix([[1, 1]], 2)
+assert not s.searchMatrix([[-10,-8,-8,-8],[-5,-4,-2,0]], 7)
+print('All tests passed!')
