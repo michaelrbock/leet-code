@@ -23,6 +23,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](./python/unique-paths-ii.py) | Medium
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](./python/search-a-2d-matrix.py) | Medium
 75* | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Python](./python/sort-colors.py) | Medium
+78 | [Subsets](https://leetcode.com/problems/subsets) | [Python](./python/subsets.py) | Medium
 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](./python/word-search.py) | Medium
 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Python](./python/restore-ip-addresses.py) | Medium
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python/maximum-depth-of-binary-tree.py) | Easy
