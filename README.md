@@ -15,6 +15,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./python/merge-k-sorted-lists.py) | Hard
 33* | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | TODO | Medium
 42* | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | TODO | Hard
+46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/permutations.py) | Medium
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./python/maximum-subarray.py) | Easy
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Python](./python/spiral-matrix.py) | Medium
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./python/merge-intervals.py) | Medium
