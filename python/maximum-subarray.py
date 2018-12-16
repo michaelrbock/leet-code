@@ -1,35 +1,24 @@
-"""
-https://en.wikipedia.org/wiki/Maximum_subarray_problem
-Could also be solved vya divide & conquer.
-
-Time: O(n)
-"""
-
 class Solution:
   def maxSubArray(self, nums):
     """
     :type nums: List[int]
     :rtype: int
     """
-    max_total = float('-inf')
-    current_total = 0
-
+    curr = 0
+    max_sum = float('-inf')
     for num in nums:
-      if num > 0:
-        if current_total < 0:
-          # If num is positive and current_total is negative,
-          # start a new sub-list.
-          current_total = num
-        else:
-          current_total += num
-      else:  # num is <= 0
-        if num > max_total:
-          # Make sure we capture the max non-positive number.
-          current_total = num
-        else:
-          current_total += num
+      if num < 0:
+        max_sum = max(max_sum, num)
+        curr = max(0, curr + num)
+      else:
+        curr += num
+        max_sum = max(max_sum, curr)
+    return max_sum
 
-      if current_total > max_total:
-        max_total = current_total
 
-    return max_total
+s = Solution()
+assert s.maxSubArray([-1]) == -1
+assert s.maxSubArray([-1, 1]) == 1
+assert s.maxSubArray([2, -1, 2]) == 3
+assert s.maxSubArray([-2,1,-3,4,-1,2,1,-5,4]) == 6
+print('All tests passed!')
