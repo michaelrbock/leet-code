@@ -14,6 +14,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./python/generate-parentheses) | Medium
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./python/merge-k-sorted-lists.py) | Hard
 33* | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | TODO | Medium
+37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](./python/sudoku-solver.py) | Hard
 42* | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | TODO | Hard
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/permutations.py) | Medium
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./python/maximum-subarray.py) | Easy
