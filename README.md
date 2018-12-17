@@ -49,6 +49,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](./python/jewels-and-stones.py) | Easy
 773* | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Python](./python/sliding-puzzle.py) (slow) | Hard
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](./python/keys-and-rooms.py) | Medium
+929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Python](./python/unique-email-addresses.py) | Easy
 
 ### Problems to revist
 
