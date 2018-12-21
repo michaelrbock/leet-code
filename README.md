@@ -1,4 +1,4 @@
-# LeetCode ![Python](https://img.shields.io/badge/language-Python-blue.svg)
+# LeetCode ![Python](https://img.shields.io/badge/language-Python%20/%20C++-blue.svg)
 
 Solutions to problems on [LeetCode](https://leetcode.com/)
 
@@ -47,7 +47,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Python](./python/binary-search.py) | Easy
 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [Python](./python/network-delay-time.py) | Easy
 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock) | [Python](./python/open-the-lock.py) | Medium
-771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](./python/jewels-and-stones.py) | Easy
+771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](./python/jewels-and-stones.py) [C++](./cpp/jewels-and-stones.cc) | Easy
 773* | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Python](./python/sliding-puzzle.py) (slow) | Hard
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](./python/keys-and-rooms.py) | Medium
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Python](./python/unique-email-addresses.py) | Easy
