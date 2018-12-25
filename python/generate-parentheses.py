@@ -22,3 +22,14 @@ class Solution:
 
     parens_rec(n * 2, '', 0)
     return results
+
+
+s = Solution()
+assert len(s.generateParenthesis(1)) == 1
+assert len(s.generateParenthesis(2)) == 2
+assert len(s.generateParenthesis(3)) == 5
+assert len(s.generateParenthesis(4)) == 14
+print(len(s.generateParenthesis(5)))
+print(len(s.generateParenthesis(6)))
+print(len(s.generateParenthesis(7)))
+print(len(s.generateParenthesis(8)))
