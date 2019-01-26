@@ -1,6 +1,6 @@
 # LeetCode ![Python](https://img.shields.io/badge/language-Python%20/%20C++-blue.svg)
 
-Solutions to problems on [LeetCode](https://leetcode.com/)
+Solutions to problems on [LeetCode](https://leetcode.com/).
 
 ### Solved
 
@@ -12,9 +12,11 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](./python/container-with-most-water.py) | Medium
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](python/roman-to-integer.py) | Easy
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python](./python/letter-combinations-of-a-phone-number.py) | Medium
+18* | [4Sum](https://leetcode.com/problems/4sum) | [Python](./python/4sum.py) | Medium
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python/valid-parentheses.py) | Easy
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./python/generate-parentheses) | Medium
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./python/merge-k-sorted-lists.py) | Hard
+28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python](./python/implement-strstr.py) | Easy
 33* | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | TODO | Medium
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](./python/sudoku-solver.py) | Hard
 42* | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | TODO | Hard
@@ -27,6 +29,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./cpp/climbing-stairs.cc) | Easy
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](./python/search-a-2d-matrix.py) | Medium
 75* | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Python](./python/sort-colors.py) | Medium
+76* | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Python](./python/minimum-window-substring.py) | Hard
 78 | [Subsets](https://leetcode.com/problems/subsets) | [Python](./python/subsets.py) | Medium
 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](./python/word-search.py) | Medium
 91* | [Decode Ways](https://leetcode.com/problems/decode-ways) | TODO | Medium
@@ -42,6 +45,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/)
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python](./python/number-of-islands.py) | Medium
 206 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python](./python/reverse-linked-list.py) | Easy
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python](./python/implement-stack-using-queues.py) | Easy
+236* | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | TODO | Medium
 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | [Python](./python/different-ways-to-add-parentheses.py) | Medium
 279* | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [Python](./python/perfect-squares.py) | Medium
 289 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Python](./python/game-of-life.py) | Medium
