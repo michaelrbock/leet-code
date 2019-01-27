@@ -11,6 +11,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](./python/longest-palindromic-substring.py) | Medium
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](./python/container-with-most-water.py) | Medium
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](python/roman-to-integer.py) | Easy
+14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix.py) | [Python](./python/longest-common-prefix.py) | Easy
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python](./python/letter-combinations-of-a-phone-number.py) | Medium
 18* | [4Sum](https://leetcode.com/problems/4sum) | [Python](./python/4sum.py) | Medium
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python/valid-parentheses.py) | Easy
@@ -47,6 +48,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python](./python/implement-stack-using-queues.py) | Easy
 236* | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | TODO | Medium
 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | [Python](./python/different-ways-to-add-parentheses.py) | Medium
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](./python/valid-anagram.py) | Easy
 279* | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [Python](./python/perfect-squares.py) | Medium
 289 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Python](./python/game-of-life.py) | Medium
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./python/reverse-string.py) | Easy
