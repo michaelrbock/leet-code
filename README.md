@@ -15,6 +15,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python](./python/letter-combinations-of-a-phone-number.py) | Medium
 18* | [4Sum](https://leetcode.com/problems/4sum) | [Python](./python/4sum.py) | Medium
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python/valid-parentheses.py) | Easy
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./python/merge-two-sorted-lists.py) | Easy
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./python/generate-parentheses) | Medium
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./python/merge-k-sorted-lists.py) | Hard
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python](./python/implement-strstr.py) | Easy
