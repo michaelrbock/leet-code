@@ -39,14 +39,17 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](./python/word-search.py) | Medium
 91* | [Decode Ways](https://leetcode.com/problems/decode-ways) | TODO | Medium
 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Python](./python/restore-ip-addresses.py) | Medium
+102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](./python/binary-tree-level-order-traversal.py) | Medium
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python/maximum-depth-of-binary-tree.py) | Easy
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python](./python/minimum-depth-of-binary-tree.py) | Easy
+118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Python](./python/pascals-triangle.py) | Easy
 120 | [Triangle](https://leetcode.com/problems/triangle) | [Python](./python/triangle.py) | Medium
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Python](./python/best-time-to-buy-and-sell-stock.py) | Easy
 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | TODO | Easy
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python](./python/find-minimum-in-rotated-sorted-array.py) | Medium
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](./python/majority-element.py) | Easy
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Python](./python/rotate-array.py) | Easy
+198 | [House Robber](https://leetcode.com/problems/house-robber) | [Python](./python/house-robber.py) | Easy
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python](./python/number-of-islands.py) | Medium
 206 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python](./python/reverse-linked-list.py) | Easy
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Python](./python/course-schedule.py) (slow) | Medium
