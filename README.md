@@ -20,9 +20,12 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./python/merge-k-sorted-lists.py) | Hard
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python](./python/implement-strstr.py) | Easy
 33* | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | TODO | Medium
+36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Python](./python/valid-sudoku.py) | Medium
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](./python/sudoku-solver.py) | Hard
+38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Python](./python/count-and-say.py) | Easy
 42* | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | TODO | Hard
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/permutations.py) | Medium
+48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Python](./python/rotate-image.py) | Medium
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./python/maximum-subarray.py) | Easy
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Python](./python/spiral-matrix.py) | Medium
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./python/merge-intervals.py) | Medium
@@ -46,6 +49,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Python](./python/rotate-array.py) | Easy
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python](./python/number-of-islands.py) | Medium
 206 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python](./python/reverse-linked-list.py) | Easy
+207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Python](./python/course-schedule.py) (slow) | Medium
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python](./python/implement-stack-using-queues.py) | Easy
 236* | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | TODO | Medium
 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | [Python](./python/different-ways-to-add-parentheses.py) | Medium
