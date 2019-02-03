@@ -6,14 +6,14 @@ class Solution:
     """
     results = []
 
-    def subsets_rec(nums, so_far):
-      if not nums:
+    def subsets_rec(i, so_far):
+      if i == len(nums):
         results.append(so_far)
         return
-      subsets_rec(nums[1:], so_far)  # Don't take nums[0].
-      subsets_rec(nums[1:], so_far + [nums[0]]) # Take nums[0].
+      subsets_rec(i + 1, so_far)  # Don't take nums[0].
+      subsets_rec(i + 1, so_far + [nums[i]]) # Take nums[0].
 
-    subsets_rec(nums, [])
+    subsets_rec(0, [])
     return results
 
 

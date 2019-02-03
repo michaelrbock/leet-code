@@ -23,6 +23,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Python](./python/valid-sudoku.py) | Medium
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](./python/sudoku-solver.py) | Hard
 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Python](./python/count-and-say.py) | Easy
+39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python](./python/combination-sum.py) | Medium
 42* | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | TODO | Hard
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/permutations.py) | Medium
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Python](./python/rotate-image.py) | Medium
@@ -31,21 +32,26 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./python/merge-intervals.py) | Medium
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Python](./python/unique-paths.py) | Medium
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](./python/unique-paths-ii.py) | Medium
+64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Python](./python/minimum-path-sum.py) | Medium
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./cpp/climbing-stairs.cc) | Easy
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python](./python/search-a-2d-matrix.py) | Medium
 75* | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Python](./python/sort-colors.py) | Medium
 76* | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Python](./python/minimum-window-substring.py) | Hard
+77* | [Combinations](https://leetcode.com/problems/combinations) | TODO | Medium
 78 | [Subsets](https://leetcode.com/problems/subsets) | [Python](./python/subsets.py) | Medium
 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](./python/word-search.py) | Medium
 91* | [Decode Ways](https://leetcode.com/problems/decode-ways) | TODO | Medium
 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Python](./python/restore-ip-addresses.py) | Medium
+98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Python](./python/validate-binary-search-tree.py) | Medium
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](./python/binary-tree-level-order-traversal.py) | Medium
+103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Python](./python/binary-tree-zigzag-level-order-traversal.py) | Medium
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python/maximum-depth-of-binary-tree.py) | Easy
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python](./python/minimum-depth-of-binary-tree.py) | Easy
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Python](./python/pascals-triangle.py) | Easy
 120 | [Triangle](https://leetcode.com/problems/triangle) | [Python](./python/triangle.py) | Medium
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Python](./python/best-time-to-buy-and-sell-stock.py) | Easy
 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | TODO | Easy
+127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Python](./python/word-ladder.py) | Medium
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python](./python/find-minimum-in-rotated-sorted-array.py) | Medium
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](./python/majority-element.py) | Easy
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Python](./python/rotate-array.py) | Easy
@@ -59,18 +65,24 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](./python/valid-anagram.py) | Easy
 279* | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [Python](./python/perfect-squares.py) | Medium
 289 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Python](./python/game-of-life.py) | Medium
+322* | [Coin Change](https://leetcode.com/problems/coin-change) | TODO | Medium
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./python/reverse-string.py) | Easy
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Python](./python/first-unique-character-in-a-string.py) [C++](./cpp/first-unique-character-in-a-string.cc) | Easy
+399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python](./python/evaluate-division.py) | Medium
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Python](./python/fizz-buzz.py) [C++](./cpp/fizz-buzz.cc) | Easy
 454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | [Python](./python/4sum-ii.py) | Medium
+518* | [Coin Change 2](https://leetcode.com/problems/coin-change-2) | TODO | Medium
 529 | [Minesweeper](https://leetcode.com/problems/minesweeper) | [Python](./python/minesweeper.py) | Medium
 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Python](./python/binary-search.py) | Easy
 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [Python](./python/network-delay-time.py) | Easy
+746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python](./python/min-cost-climbing-stairs.py) | Easy
 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock) | [Python](./python/open-the-lock.py) | Medium
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](./python/jewels-and-stones.py) [C++](./cpp/jewels-and-stones.cc) | Easy
 773* | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Python](./python/sliding-puzzle.py) (slow) | Hard
 785* | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [Python](./python/is-graph-bipartite.py) | Medium
+833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) | [Python](./python/find-and-replace-in-string.py) | Medium
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](./python/keys-and-rooms.py) | Medium
+844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Python](./python/backspace-string-compare.py) | Easy
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Python](./python/unique-email-addresses.py) | Easy
 
 ### Problems to revist
