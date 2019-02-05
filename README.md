@@ -40,9 +40,11 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 77* | [Combinations](https://leetcode.com/problems/combinations) | TODO | Medium
 78 | [Subsets](https://leetcode.com/problems/subsets) | [Python](./python/subsets.py) | Medium
 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](./python/word-search.py) | Medium
+84* | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | TODO | Hard
 91* | [Decode Ways](https://leetcode.com/problems/decode-ways) | TODO | Medium
 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Python](./python/restore-ip-addresses.py) | Medium
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Python](./python/validate-binary-search-tree.py) | Medium
+100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](./python/same-tree.py) | Easy
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](./python/binary-tree-level-order-traversal.py) | Medium
 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Python](./python/binary-tree-zigzag-level-order-traversal.py) | Medium
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python/maximum-depth-of-binary-tree.py) | Easy
@@ -52,6 +54,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Python](./python/best-time-to-buy-and-sell-stock.py) | Easy
 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | TODO | Easy
 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Python](./python/word-ladder.py) | Medium
+145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](./python/binary-tree-postorder-traversal.py) | Hard
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python](./python/find-minimum-in-rotated-sorted-array.py) | Medium
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](./python/majority-element.py) | Easy
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Python](./python/rotate-array.py) | Easy
@@ -65,6 +68,8 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](./python/valid-anagram.py) | Easy
 279* | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [Python](./python/perfect-squares.py) | Medium
 289 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Python](./python/game-of-life.py) | Medium
+295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Python](./python/find-median-from-data-stream.py) | Hard
+309* | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [Python](./python/best-time-to-buy-and-sell-stock-with-cooldown.py) (slow) | Medium
 322* | [Coin Change](https://leetcode.com/problems/coin-change) | TODO | Medium
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./python/reverse-string.py) | Easy
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Python](./python/first-unique-character-in-a-string.py) [C++](./cpp/first-unique-character-in-a-string.cc) | Easy
@@ -79,6 +84,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock) | [Python](./python/open-the-lock.py) | Medium
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](./python/jewels-and-stones.py) [C++](./cpp/jewels-and-stones.cc) | Easy
 773* | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [Python](./python/sliding-puzzle.py) (slow) | Hard
+784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) | [Python](./python/letter-case-permutation.py) | Easy
 785* | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [Python](./python/is-graph-bipartite.py) | Medium
 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) | [Python](./python/find-and-replace-in-string.py) | Medium
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](./python/keys-and-rooms.py) | Medium
