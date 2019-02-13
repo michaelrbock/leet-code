@@ -12,6 +12,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](./python/container-with-most-water.py) | Medium
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](python/roman-to-integer.py) | Easy
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix.py) | [Python](./python/longest-common-prefix.py) | Easy
+15 | [3Sum](https://leetcode.com/problems/3sum) | [Python](./python/3sum.py) | Medium
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python](./python/letter-combinations-of-a-phone-number.py) | Medium
 18* | [4Sum](https://leetcode.com/problems/4sum) | [Python](./python/4sum.py) | Medium
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python/valid-parentheses.py) | Easy
@@ -71,6 +72,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Python](./python/find-median-from-data-stream.py) | Hard
 309* | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [Python](./python/best-time-to-buy-and-sell-stock-with-cooldown.py) (slow) | Medium
 322* | [Coin Change](https://leetcode.com/problems/coin-change) | TODO | Medium
+329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [Python](./python/longest-increasing-path-in-a-matrix.py) | Hard
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./python/reverse-string.py) | Easy
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Python](./python/first-unique-character-in-a-string.py) [C++](./cpp/first-unique-character-in-a-string.cc) | Easy
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python](./python/evaluate-division.py) | Medium
@@ -90,6 +92,8 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](./python/keys-and-rooms.py) | Medium
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Python](./python/backspace-string-compare.py) | Easy
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Python](./python/unique-email-addresses.py) | Easy
+977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Python](./python/squares-of-a-sorted-array.py) | Easy
+981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [Python](./python/time-based-key-value-store.py) |Medium
 
 ### Problems to revist
 
