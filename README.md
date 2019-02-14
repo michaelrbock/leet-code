@@ -91,7 +91,13 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) | [Python](./python/find-and-replace-in-string.py) | Medium
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [Python](./python/keys-and-rooms.py) | Medium
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Python](./python/backspace-string-compare.py) | Easy
+900* | [RLE Iterator](https://leetcode.com/problems/rle-iterator) | [Python](./python/rle-iterator.py) | Medium
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Python](./python/unique-email-addresses.py) | Easy
+942 | [DI String Match](https://leetcode.com/problems/di-string-match) | [Python](./python/di-string-match.py) | Easy
+946* | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) | TODO | Medium
+953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [Python](./python/verifying-an-alien-dictionary.py) | Easy
+965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Python](./python/univalued-binary-tree.py) | Easy
+973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [Python](./python/k-closest-points-to-origin.py) | Easy
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Python](./python/squares-of-a-sorted-array.py) | Easy
 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [Python](./python/time-based-key-value-store.py) |Medium
 
