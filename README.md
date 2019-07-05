@@ -100,7 +100,8 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Python](./python/univalued-binary-tree.py) | Easy
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [Python](./python/k-closest-points-to-origin.py) | Easy
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Python](./python/squares-of-a-sorted-array.py) | Easy
-981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [Python](./python/time-based-key-value-store.py) |Medium
+981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [Python](./python/time-based-key-value-store.py) | Medium
+1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | [Python](./python/distribute-candies-to-people.py) | Easy
 
 ### Problems to revist
 
