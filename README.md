@@ -103,6 +103,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [Python](./python/time-based-key-value-store.py) | Medium
 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | [Python](./python/distribute-candies-to-people.py) | Easy
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Python](./python/defanging-an-ip-address.py) | Easy
+1114 | [Print in Order](https://leetcode.com/problems/print-in-order) | [Python](./python/print-in-order.py) | Easy
 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [Python](./python/find-words-that-can-be-formed-by-characters.py) | Easy
 
 ### Problems to revist
