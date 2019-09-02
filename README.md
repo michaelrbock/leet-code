@@ -19,6 +19,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./python/merge-two-sorted-lists.py) | Easy
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./python/generate-parentheses) | Medium
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./python/merge-k-sorted-lists.py) | Hard
+26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python](./python/remove-duplicates-from-sorted-array.py) | Easy
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python](./python/implement-strstr.py) | Easy
 33* | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | TODO | Medium
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Python](./python/valid-sudoku.py) | Medium
