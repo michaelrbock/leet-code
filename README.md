@@ -45,6 +45,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 84* | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | TODO | Hard
 91* | [Decode Ways](https://leetcode.com/problems/decode-ways) | TODO | Medium
 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Python](./python/restore-ip-addresses.py) | Medium
+94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Python](./python/binary-tree-inorder-traversal.py) | Medium
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Python](./python/validate-binary-search-tree.py) | Medium
 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](./python/same-tree.py) | Easy
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](./python/binary-tree-level-order-traversal.py) | Medium
