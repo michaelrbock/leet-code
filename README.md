@@ -76,6 +76,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 322* | [Coin Change](https://leetcode.com/problems/coin-change) | TODO | Medium
 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [Python](./python/longest-increasing-path-in-a-matrix.py) | Hard
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./python/reverse-string.py) | Easy
+347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Python](./python/top-k-frequent-elements.py) | Medium
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Python](./python/first-unique-character-in-a-string.py) [C++](./cpp/first-unique-character-in-a-string.cc) | Easy
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python](./python/evaluate-division.py) | Medium
 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Python](./python/fizz-buzz.py) [C++](./cpp/fizz-buzz.cc) | Easy
