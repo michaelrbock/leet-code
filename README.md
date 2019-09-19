@@ -109,6 +109,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Python](./python/defanging-an-ip-address.py) | Easy
 1114 | [Print in Order](https://leetcode.com/problems/print-in-order) | [Python](./python/print-in-order.py) | Easy
 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | [Python](./python/print-foobar-alternately.py) | Medium
+1116 | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) | [Python](./python/print-zero-even-odd.py) | Medium
 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [Python](./python/find-words-that-can-be-formed-by-characters.py) | Easy
 
 ### Problems to revist
