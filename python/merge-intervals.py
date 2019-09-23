@@ -28,3 +28,24 @@ class Solution:
     if not result or result[-1].start != interval_start:
       result.append(Interval(interval_start, interval_end))
     return result
+
+
+class Solution2(object):
+  def merge(self, intervals):
+    """
+    :type intervals: List[List[int]]
+    :rtype: List[List[int]]
+    """
+    if not intervals:
+      return []
+
+    intervals.sort()
+    merged = [intervals[0]]
+
+    for i in range(1, len(intervals)):
+      if intervals[i][0] <= merged[-1][1]:
+        merged[-1][1] = max(merged[-1][1], intervals[i][1])
+      else:
+        merged.append(intervals[i])
+
+    return merged
