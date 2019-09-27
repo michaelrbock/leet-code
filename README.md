@@ -66,6 +66,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 206 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python](./python/reverse-linked-list.py) | Easy
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Python](./python/course-schedule.py) (slow) | Medium
 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Python](./python/implement-trie-prefix-tree.py) | Medium
+212 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Python](./python/word-search-ii.py) | Hard
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python](./python/implement-stack-using-queues.py) | Easy
 236* | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | TODO | Medium
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Python](./python/product-of-array-except-self.py) | Medium
