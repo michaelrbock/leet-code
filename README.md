@@ -89,6 +89,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 518* | [Coin Change 2](https://leetcode.com/problems/coin-change-2) | TODO | Medium
 529 | [Minesweeper](https://leetcode.com/problems/minesweeper) | [Python](./python/minesweeper.py) | Medium
 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Python](./python/reshape-the-matrix.py) | Easy
+559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Python](./python/maximum-depth-of-n-ary-tree.py) | Easy
 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Python](./python/binary-search.py) | Easy
 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [Python](./python/network-delay-time.py) | Easy
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Python](./python/min-cost-climbing-stairs.py) | Easy
