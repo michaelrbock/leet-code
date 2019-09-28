@@ -28,6 +28,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python](./python/combination-sum.py) | Medium
 42* | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | TODO | Hard
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/permutations.py) | Medium
+47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [Python](./python/permutations-ii.py) | Medium
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Python](./python/rotate-image.py) | Medium
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](./python/maximum-subarray.py) | Easy
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Python](./python/spiral-matrix.py) | Medium
@@ -51,6 +52,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](./python/binary-tree-level-order-traversal.py) | Medium
 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Python](./python/binary-tree-zigzag-level-order-traversal.py) | Medium
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python/maximum-depth-of-binary-tree.py) | Easy
+110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | * | Easy
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python](./python/minimum-depth-of-binary-tree.py) | Easy
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Python](./python/pascals-triangle.py) | Easy
 120 | [Triangle](https://leetcode.com/problems/triangle) | [Python](./python/triangle.py) | Medium
