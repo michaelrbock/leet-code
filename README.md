@@ -60,6 +60,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | TODO | Easy
 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Python](./python/word-ladder.py) | Medium
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](./python/binary-tree-postorder-traversal.py) | Hard
+146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](./python/lru-cache.py) | Medium
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python](./python/find-minimum-in-rotated-sorted-array.py) | Medium
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](./python/majority-element.py) | Easy
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Python](./python/rotate-array.py) | Easy
