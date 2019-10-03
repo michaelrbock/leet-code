@@ -59,6 +59,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Python](./python/best-time-to-buy-and-sell-stock.py) | Easy
 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | TODO | Easy
 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | [Python](./python/word-ladder.py) | Medium
+144 [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](./python/binary-tree-preorder-traversal.py) | Medium
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](./python/binary-tree-postorder-traversal.py) | Hard
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](./python/lru-cache.py) | Medium
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python](./python/find-minimum-in-rotated-sorted-array.py) | Medium
