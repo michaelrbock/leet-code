@@ -16,5 +16,5 @@ class Solution:
     self.inorderTraversal(root.left)
     self.output.append(root.val)
     self.inorderTraversal(root.right)
-    
+
     return self.output
