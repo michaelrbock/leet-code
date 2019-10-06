@@ -80,6 +80,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 289 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Python](./python/game-of-life.py) | Medium
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Python](./python/find-median-from-data-stream.py) | Hard
 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Python](./python/serialize-and-deserialize-binary-tree.py) | Hard
+300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Python](./python/longest-increasing-subsequence.py) | Medium
 309* | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [Python](./python/best-time-to-buy-and-sell-stock-with-cooldown.py) (slow) | Medium
 322* | [Coin Change](https://leetcode.com/problems/coin-change) | TODO | Medium
 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [Python](./python/longest-increasing-path-in-a-matrix.py) | Hard
