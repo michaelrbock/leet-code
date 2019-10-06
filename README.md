@@ -70,6 +70,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 206 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python](./python/reverse-linked-list.py) | Easy
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Python](./python/course-schedule.py) (slow) | Medium
 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Python](./python/implement-trie-prefix-tree.py) | Medium
+210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [Python](./python/course-schedule-ii.py) | Medium
 212 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Python](./python/word-search-ii.py) | Hard
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Python](./python/contains-duplicate.py) | Easy
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python](./python/implement-stack-using-queues.py) | Easy
