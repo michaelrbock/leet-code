@@ -79,6 +79,7 @@ Solutions to problems on [LeetCode](https://leetcode.com/).
 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | [Python](./python/different-ways-to-add-parentheses.py) | Medium
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](./python/valid-anagram.py) | Easy
 279* | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [Python](./python/perfect-squares.py) | Medium
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Python](./python/move-zeroes.py) | Easy
 289 | [Game of Life](https://leetcode.com/problems/game-of-life) | [Python](./python/game-of-life.py) | Medium
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Python](./python/find-median-from-data-stream.py) | Hard
 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Python](./python/serialize-and-deserialize-binary-tree.py) | Hard
